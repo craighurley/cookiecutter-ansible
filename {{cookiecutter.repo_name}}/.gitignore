@@ -1,0 +1,9 @@
+.DS_Store
+.python-version
+*.log
+*.retry
+/facts
+/fetched
+/logs
+/tmp
+/vars/private
