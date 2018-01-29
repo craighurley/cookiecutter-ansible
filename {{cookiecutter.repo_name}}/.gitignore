@@ -4,6 +4,5 @@
 *.retry
 /facts
 /fetched
-/logs
 /tmp
 /vars/private
